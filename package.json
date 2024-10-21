@@ -1,0 +1,14 @@
+{
+  "name": "proj",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "index.js",
+  "scripts": {
+    "types": "mypy __init__.py",
+    "install-types": "mypy --install-types",
+    "start": "poetry run python __init__.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
